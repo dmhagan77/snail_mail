@@ -1,0 +1,2 @@
+module ELetterHelper
+end

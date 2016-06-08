@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  to_person: MyString
+  : 
+  from_person: MyString
+  : 
+  content: MyString
+  : MyString
+
+two:
+  to_person: MyString
+  : 
+  from_person: MyString
+  : 
+  content: MyString
+  : MyString
